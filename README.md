@@ -1,5 +1,9 @@
 # HIGH-Sim-dataset
-The datasets were extracted from aerial videos recorded at several successive spaces of Interstate-75, United States
+The datasets were extracted from aerial videos recorded at several successive spaces of Interstate-75, United States.
+
+Some MATLAB codes that may help you to process the dataset can be found in the data illustration package.
+
+If you feel the dataset helps your research, please cite our two research papers related to this dataset as follows.
 
 Data for reserach 
 Shi, X., Zhao, D., and Li, X., 2021. A Car Following-Based Method for Vehicle Trajectory Dataset Post-Processing. (Under review). Preprint: https://doi.org/10.13140/RG.2.2.28609.28001/1
