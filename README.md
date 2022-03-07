@@ -1,7 +1,7 @@
 # HIGH-Sim-dataset
 The datasets were extracted from aerial videos recorded at several successive spaces of Interstate-75, United States.
 
-Due to the limited upload size for each file of GitHub, we uploaded the first 90 trajectories for illustration purpose. Please contact xiaoweishi@usf.edu and xiaopengli@usf.edu for the whole dataset (about 1GB).
+Due to the limited upload size for each file of GitHub, we uploaded the first 90 trajectories for illustration purpose. The whole dataset is available at https://drive.google.com/drive/folders/1HfMokgtkqi44t_khkdAB7QjnBqh_J7mx?usp=sharing (about 1GB).
 
 Some MATLAB codes that may help you to process the dataset can be found in the trajectory illustration package. Also, several plots of the first 90 trajectories can be found there. If you feel the dataset helps your research, please cite our two research papers related to this dataset as follows.
 
@@ -9,3 +9,5 @@ Data for reserach
 Shi, X., Zhao, D., and Li, X., 2021. A Car Following-Based Method for Vehicle Trajectory Dataset Post-Processing. (Under review). Preprint: https://doi.org/10.13140/RG.2.2.28609.28001/1
 
 Shi, X., Zhao, D., Yao, H. and Li, X., 2021. Video-based Trajectory Generation for High-Granularity Highway Simulation (HIGH-Sim). https://doi.org/10.1016/j.commtr.2021.100014
+
+Please contact xiaopengli@usf.edu if you have any questions.
