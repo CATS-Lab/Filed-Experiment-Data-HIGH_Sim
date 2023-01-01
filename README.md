@@ -1,4 +1,4 @@
-# HIGH-Sim-dataset
+# Perception-HIGH_Sim_dataset
 The datasets were extracted from aerial videos recorded at several successive spaces of Interstate-75, United States.
 
 Due to the limited upload size for each file of GitHub, we uploaded the first 90 trajectories for illustration purpose. The whole dataset is available at https://drive.google.com/drive/folders/1HfMokgtkqi44t_khkdAB7QjnBqh_J7mx?usp=sharing (about 1GB).
